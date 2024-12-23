@@ -1,0 +1,24 @@
+.botao{
+    margin-top: 1.1em;
+    margin-left: 1em;
+}
+.botao-acao{
+    margin-left: 1em;
+}
+.alerta{
+    color: #FF0000;
+    font-size: medium;
+}
+.botao-formulario{
+    margin-top: 2em;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: auto;
+    grid-gap: 10px;
+}
+
+.grid > div {
+    text-align: center;
+  }
